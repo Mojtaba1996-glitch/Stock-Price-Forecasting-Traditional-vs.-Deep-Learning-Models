@@ -53,11 +53,9 @@ This project demonstrates the forecasting of stock prices and market directions 
 ![LSTM model](LSTM.PNG) 
 
 ## Conclusion
-In summary, this chapter examined improving stock selection through dynamic
-price prediction models, building on previous DEA analysis results. The study
-used and compared three different forecasting models, namely ARIMA, LSTM and
-Random Forest, to produce weekly price forecasts for nine stocks selected by the
-DEA. As far as price prediction accuracy is concerned, the ARIMA model showed
+ The study used and compared three different forecasting models, namely ARIMA, LSTM and
+Random Forest, to produce weekly price forecasts for nine stocks. 
+As far as price prediction accuracy is concerned, the ARIMA model showed
 superior performance with consistently low MAPE values between 1.26% and 2.92%.
 Its effectiveness was particularly evident in stocks such as EGCO, ADVANC and
 TU, with MAPE values of 1.26%, 1.32% and 1.39%, respectively. The LSTM model
