@@ -40,13 +40,13 @@ This project demonstrates the forecasting of stock prices and market directions 
 ![LSTM model](lstm_results.png)
 
 ## Results (Trend forecasting) 
-![ARIMA model](ARIMA.png)
+![ARIMA model](ARIMA.PNG)
 
 **RF**
-![RF model](RF.png)
+![RF model](RF.PNG)
 
 **LSTM**
-![LSTM model](LSTM.png) 
+![LSTM model](LSTM.PNG) 
 
 ## Conclusion
 In summary, this chapter examined improving stock selection through dynamic
