@@ -30,8 +30,8 @@ This project demonstrates the forecasting of stock prices and market directions 
   - **File Format**: [📘FORECASTING.ipynb](FORECASTING.ipynb)
 
 
-## Results 
-**Price forecasting**
+## Results (Price forecasting)
+**ARIMA**
 ![ARIMA model](arima_results.png) 
 
 
