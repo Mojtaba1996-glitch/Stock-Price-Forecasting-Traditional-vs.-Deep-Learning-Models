@@ -38,5 +38,7 @@ This project demonstrates the forecasting of stock prices and market directions 
 
 - **File Format**: [📘FORECASTING.ipynb](FORECASTING.ipynb)
 
+(FORECASTING.ipynb)
+
 
 
