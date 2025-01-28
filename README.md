@@ -32,7 +32,7 @@ This project demonstrates the forecasting of stock prices and market directions 
 
 ## Results 
 **Price forecasting**
-![ARIMA model](figures/arima-results) 
+![ARIMA model](figures/arima-results.png) 
 
 
 
