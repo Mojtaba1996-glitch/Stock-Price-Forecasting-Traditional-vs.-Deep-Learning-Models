@@ -2,7 +2,6 @@
 
 ## Overview  
 This project demonstrates the forecasting of stock prices and market directions using a combination of traditional time series models (ARIMA) and deep learning architectures (LSTM and GRU). It aims to provide insights into the performance and accuracy of various forecasting techniques using real-world stock market data.
-
 ## Features  
 - **Data Sources**: Weekly stock price and volume data from Yahoo Finance for nine Thai stocks.  
 - **Models Implemented**:
@@ -27,6 +26,7 @@ This project demonstrates the forecasting of stock prices and market directions 
   - Data Processing: `pandas`, `numpy`, `yfinance`
   - Modeling: `statsmodels`, `tensorflow`, `keras`
   - Visualization: `matplotlib`, `seaborn`
+  - **File Format**: [📘FORECASTING.ipynb](FORECASTING.ipynb)
 
 ## Project Structure  
 ```plaintext
@@ -36,9 +36,8 @@ This project demonstrates the forecasting of stock prices and market directions 
 ├── requirements.txt          # Python dependencies
 └── main.py                   # Main script for running the project
 
-- **File Format**: [📘FORECASTING.ipynb](FORECASTING.ipynb)
 
-(FORECASTING.ipynb)
+
 
 
 
