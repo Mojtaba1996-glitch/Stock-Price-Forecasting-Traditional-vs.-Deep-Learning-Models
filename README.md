@@ -39,13 +39,17 @@ This project demonstrates the forecasting of stock prices and market directions 
 **LSTM**
 ![LSTM model](lstm_results.png)
 
-## Results (Trend forecasting) 
+## Results (Trend forecasting)
+**ARIMA**
+
 ![ARIMA model](ARIMA.PNG)
 
 **RF**
+
 ![RF model](RF.PNG)
 
 **LSTM**
+
 ![LSTM model](LSTM.PNG) 
 
 ## Conclusion
