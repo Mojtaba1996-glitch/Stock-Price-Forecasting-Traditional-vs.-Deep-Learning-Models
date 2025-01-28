@@ -30,14 +30,13 @@ This project demonstrates the forecasting of stock prices and market directions 
 
 ## Project Structure  
 ```plaintext
-├── data/                     # Folder for input data and exported CSVs
 ├── models/                   # Scripts for ARIMA, LSTM, and GRU implementations
 ├── notebooks/                # Jupyter Notebooks for experimentation
-├── plots/                    # Folder for saving visualization outputs
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 └── main.py                   # Main script for running the project
 
-- **File Format**:  [📘FORECASTING.ipynb](subdirectory/FORECASTING.ipynb)
+- **File Format**: [📘FORECASTING.ipynb](FORECASTING.ipynb)
+
 
 
