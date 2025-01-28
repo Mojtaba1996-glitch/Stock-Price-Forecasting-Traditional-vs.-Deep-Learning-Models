@@ -34,10 +34,10 @@ This project demonstrates the forecasting of stock prices and market directions 
 **ARIMA**
 
 ![ARIMA model](arima_results.png)
-
-**RF**
+******************************************************
+#RF
 ![RF model](rf-results.png)
-
+**************************************
 **LSTM**
 ![LSTM model](lstm_results.png)
 
