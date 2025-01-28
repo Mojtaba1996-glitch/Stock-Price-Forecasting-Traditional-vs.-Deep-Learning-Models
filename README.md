@@ -37,3 +37,5 @@ This project demonstrates the forecasting of stock prices and market directions 
 ├── README.md                 # Project documentation
 ├── requirements.txt          # Python dependencies
 └── main.py                   # Main script for running the project
+
+- **File Format**:  [📘 FORECASTING.ipynb](FORECASTING.ipynb)
